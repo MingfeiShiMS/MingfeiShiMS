@@ -4,7 +4,7 @@
 
 🔭 I'm currently working on generative models, such as diffusion models and GAN models;
 
-sS771226
+
 
 <!--
 **MingfeiShiMS/MingfeiShiMS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
