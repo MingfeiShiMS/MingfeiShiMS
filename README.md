@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+🌱 My name is Mingfei Shi, a MS student studying in Northwestern Polytechnical University (NWPU).
+
+🔭 I'm currently working on generative models, such as diffusion models and GAN models;
+
+
+
 <!--
 **MingfeiShiMS/MingfeiShiMS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
