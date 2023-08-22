@@ -2,7 +2,9 @@
 
 🌱 My name is Mingfei Shi, a MS student studying in Northwestern Polytechnical University (NWPU).
 
-🔭 I'm currently working on generative models, such as diffusion models and GAN models;
+🔭 I am currently working on generative models, such as diffusion models and GAN models; improve
+the framework of diffusion models via maths and use diffusion models into the image editing field, 
+aiming at CVPR (2023.11) and ICML (2024.1)
 
 
 
