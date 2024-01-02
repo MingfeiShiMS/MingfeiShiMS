@@ -4,7 +4,7 @@
 
 🔭 I am currently working on generative models, such as diffusion models and GAN models; improve
 the framework of diffusion models via maths and use diffusion models into the image editing field, 
-aiming at CVPR (2023.11) and ICML (2024.1)
+aiming at ECCV (2024.3) and ICML (2024.5)
 
 
 
